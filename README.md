@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<!--
 **251623126/251623126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,5 +12,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=251623126&show_icons=true&theme=dark&count_private=true)
